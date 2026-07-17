@@ -1,0 +1,80 @@
+[
+    {
+        "transaction_id": "TX001",
+        "date": "2026-07-14",
+        "amount": 250.50,
+        "category": "Food"
+    },
+    {
+        "transaction_id": "TX002",
+        "date": "14-07-2026",
+        "amount": 100,
+        "category": "Travel"
+    },
+    {
+        "transaction_id": "TX003",
+        "date": "2026-07-14",
+        "amount": -50,
+        "category": "Bills"
+    },
+    {
+        "transaction_id": "TX004",
+        "date": "2026-07-14",
+        "amount": 150,
+        "category": "Medical"
+    },
+    {
+        "date": "2026-07-14",
+        "amount": 200,
+        "category": "Shopping"
+    },
+    {
+        "transaction_id":"",
+        "date":"2026-07-16",
+        "amount":500,
+        "category":"travel"
+    },
+    {
+        "transaction_id":123,
+        "date":"16-07-2026",
+        "amount":0,
+        "category":"laughing"
+    },
+    {
+        "transaction_id":"TY))))",
+        "date":"2026/07/16",
+        "amount":20,
+        "category":"food"
+    },
+    {
+        "transaction_id":[123,456],
+        "date":"16/07/2026",
+        "amount":5000,
+        "category":["food","shopping","travel"]
+    },
+    {
+        "transaction_id":"TX00",
+        "date":"0-0-0",
+        "amount":200,
+        "category":"travel"
+    },
+    {
+        "transaction_id":"TX000",
+        "date":"YYYY-MM-DD",
+        "amount":300,
+        "category":"BILLS"
+    },
+    {
+        "transaction_id":"TX007",
+        "category":" "
+    },
+    {
+        "amount":1
+    },
+    {
+        "transaction_id":"",
+        "date":"",
+        "amount":-90,
+        "category":"77889990"
+    }
+]
